@@ -48,7 +48,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 ### ORM
-![Oracle_cx](https://img.shields.io/badge/oracle_cx-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Django ORM](https://img.shields.io/badge/Django_ORM-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23CB3837.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
