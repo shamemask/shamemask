@@ -87,10 +87,8 @@
 ![DDD](https://img.shields.io/badge/ddd-%23000000.svg?style=for-the-badge)
 ![TDD](https://img.shields.io/badge/tdd-%231E90FF.svg?style=for-the-badge)
 ![DRY](https://img.shields.io/badge/dry-%23232323.svg?style=for-the-badge)
-![LoD](https://img.shields.io/badge/lod-%23808080.svg?style=for-the-badge)
 ![KISS](https://img.shields.io/badge/kiss-%239ACD32.svg?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/solid-%2332CD32.svg?style=for-the-badge)
-![YAGNI](https://img.shields.io/badge/yagni-%238B4513.svg?style=for-the-badge)
 ![Occam's razor](https://img.shields.io/badge/occam%27s_razor-%239ACD32.svg?style=for-the-badge)
 
 
